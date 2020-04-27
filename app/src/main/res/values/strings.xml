@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Бесконечный переход между экранами</string>
+    <string name="next">Вперед</string>
+    <string name="previous">Назад</string>
+    <string name="message">http://myfile.org/%1$d</string>
+    <string name="title">Просмотр фото</string>
+    <string name="photo_description">Фотографии</string>
+</resources>

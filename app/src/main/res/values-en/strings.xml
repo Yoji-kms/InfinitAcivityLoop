@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Infinit Acivity Loop</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="message">http://myfile.org/%1$d</string>
+    <string name="title">View photos</string>
+    <string name="photo_description">Photos</string>
+</resources>
